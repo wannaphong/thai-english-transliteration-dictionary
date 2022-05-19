@@ -16,9 +16,9 @@ Example:
 Data format: It is tsv format (split by \t).
 
 **Column**
--th - Thai word
--en - English word
--check - Check pair is correct follow by Royal Society of Thailand (True is correct, False is incorrect and None isn't check)
+- th - Thai word
+- en - English word
+- check - Check pair is correct follow by Royal Society of Thailand (True is correct, False is incorrect and None isn't check)
 
 **LICENSE**
 

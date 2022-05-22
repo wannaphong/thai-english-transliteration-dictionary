@@ -69,8 +69,10 @@ th	en	check
 คริซาลิส	chrysalis	True
 คริปทอน	krypton	True
 คริปทอมีเลน	cryptomelane	True
+คริปโต	crypto	False
 คริปโตเคอร์เรนซี	cryptocurrency	False
 คริปโตเคอเรนซี่	cryptocurrency	False
+คริปโท	crypto	True
 คริปโทเคอร์เรนซี	cryptocurrency	True
 คริส	chris	True
 คริสตัล	crystal	True
@@ -105,6 +107,7 @@ th	en	check
 คลามิเดีย	chlamidia	True
 คลาริเน็ต	clarinet	True
 คลาร์ก	clerk	True
+คลาวด์	cloud	
 คลาส	class	True
 คลาสซี	classy	True
 คลาสรูม	classroom	True
@@ -291,6 +294,7 @@ th	en	check
 คาเฟอีน	caffeine	
 คาเฟ่	cafe	False
 คาแทสโตรฟี	catastrophe	True
+คาแรกเตอร์	character	False
 คาโลเมล	calomel	True
 คิก	kick	True
 คิดเวลไลต์	kidwellite	True
@@ -330,11 +334,14 @@ th	en	check
 จาซินท์	jacinth	True
 จาร์กอน	jargon	True
 จาร์กูน	jargoon	True
+จาวา	java	True
 จาวาสคริปต์	javascript	
 จาโรไซต์	jarosite	True
 จิงเกิลสติก	jingle stick	True
 จีพียู	gpu	True
 จีโอบาซิลลัส สเตียโรเทอร์โมฟิลัส	geobacillus stearothermophilus	True
+จุมลา	joomla	
+จูมล่า	joomla	
 จ็อกกิง	jogging	True
 ชมิตเทอไรต์	schmitterrite	True
 ชอน	sean	True
@@ -344,6 +351,7 @@ th	en	check
 ชอมป์	chomp	True
 ชอยซ์	choice	True
 ชอร์	chore	True
+ชอร์ต	short	
 ชอร์ตโน้ต	shortnote	True
 ชอร์ล	schorl	True
 ชอร์ไทต์	shortite	True
@@ -363,6 +371,7 @@ th	en	check
 ชัม	chum	True
 ชัมป์	chump	True
 ชัมมี	chummy	True
+ชัวร์	sure	
 ชานต์	chant	True
 ชาร์	char	True
 ชาร์จ	charge	True
@@ -446,12 +455,13 @@ th	en	check
 ซัพพลายเออร์	supplier	
 ซัพพอร์ต	support	
 ซัมซุง	samsung	
-ซัมเมอร์	summer	
+ซัมเมอร์	summer	True
 ซัลฟา	sulpha	True
 ซัลเฟอร์	sulphur	True
 ซัลโฟเฮไลต์	sulphohalite	True
 ซัสเซไซต์	suaaexite	True
 ซาทินสปาร์	satin spar	True
+ซานตาคลอส	santa claus	
 ซานิดีน	sanidine	True
 ซาฟารี	safari	
 ซามาร์สไกต์	samarskite	True
@@ -476,6 +486,7 @@ th	en	check
 ซิคาทริกซ์	cicatrix	True
 ซิงก์	zinc	True
 ซิงก์เบลนด์	zinc blende	True
+ซิงค์	sync	True
 ซิงเกิล	single	
 ซิงเกิลมัม	single mom	
 ซิงเกิ้ล	single	
@@ -487,6 +498,7 @@ th	en	check
 ซิติเซนชิป	citizenship	True
 ซิตี	city	True
 ซิตเทิร์น	cittern	True
+ซิทคอม	sitcom	
 ซิทรอน	citron	True
 ซิทรัส	citrus	True
 ซิทริก	citric	True
@@ -558,6 +570,7 @@ th	en	check
 ซีเรียล	cereal	True
 ซีเลีย	celia	
 ซีเอฟโอ	cfo	
+ซีเอ็มเอส	cms	
 ซีโนไทม์	xenotime	True
 ซีโอไลต์	zeolite	True
 ซีไรต์	cerite	True
@@ -605,6 +618,7 @@ th	en	check
 ดัมมี	dummy	
 ดานซ์	dance	True
 ดานเซอร์	dancer	True
+ดารามิน	daramin	
 ดาร์ก	dark	True
 ดาร์มสตัดเทียม	darmstadtium	True
 ดาวน์	down	True
@@ -626,7 +640,12 @@ th	en	check
 ดีต์ไซต์	dietzeite	True
 ดีท็อกซ์	detox	
 ดีบุก	tin	True
+ดีปเลิร์นนิง	deep learning	
 ดีป้า	depa	True
+ดีพ เลินนิ่ง	deep learning	
+ดีพ เลิร์นนิง	deep learning	
+ดีพเลินนิ่ง	deep learning	
+ดีพเลิร์นนิง	deep learning	
 ดีมันทอยด์	demantoid	True
 ดีล	deal	
 ดีวีดี	dvd	True
@@ -644,10 +663,12 @@ th	en	check
 ตอร์ปิโด	torpedo	True
 ตัน	ton	True
 ติโม่ แวร์เนอร์	timo werner	
+ติ๊กต็อก	tiktok	
 ทรอมโบน	trombone	True
 ทรัมเป็ต	trumpet	True
 ทรานซิสเตอร์	transistor	True
 ทริดิไมต์	tridymite	True
+ทริป	trip	
 ทรีตเมนต์	treatment	True
 ทรู	true	True
 ทรูคอฟฟี่	true coffee	
@@ -693,6 +714,7 @@ th	en	check
 ทียูยามูไนต์	tyuyamunite	True
 ทีลไลต์	teallite	True
 ทีวี	tv	True
+ทีวี ไดเร็ค	tv direct	True
 ทีออเรทิคัล	theoretical	True
 ทีเอ็นที	tnt	True
 ทูนา	tuna	True
@@ -740,6 +762,7 @@ th	en	check
 บรอดแบนด์	broadband	True
 บรอน	brawn	True
 บรอนซ์	bronze	True
+บรอนเซอร์	bronzer	
 บรอนไซต์	bronzite	True
 บรอยล์	broil	True
 บรอล	brawl	True
@@ -839,7 +862,6 @@ th	en	check
 บลูเรย์	blu-ray	
 บล็อก	bloc	True
 บล็อก	block	True
-บล็อก	block,blog	
 บล็อก	blog	True
 บล็อกบัสเตอร์	blockbuster	True
 บล็อกเกอร์	blogger	True
@@ -855,6 +877,8 @@ th	en	check
 บองโก	bongo	True
 บอดี	body	True
 บอดีการ์ด	bodyguard	True
+บอดี้	body	
+บอดี้การ์ด	bodyguard	
 บอตเทิล	bottle	True
 บอนด์	bond	True
 บอนนิต	bonnet	True
@@ -1023,6 +1047,7 @@ th	en	check
 บิตคอย	bitcoin	False
 บิตคอยน์	bitcoin	True
 บิตแม็ป	bitmap	True
+บิทคอยน์	bitcoin	False
 บิทวีน	between	True
 บิน	bin	True
 บินจ์	binge	True
@@ -1207,6 +1232,7 @@ th	en	check
 พาราฟิน	paraffin wax	True
 พาราว็อกไซต์	paravauxite	True
 พาราโกไนต์	paragonite	True
+พาราโบลา	parabola	True
 พาร์กาไซต์	pargasite	True
 พาร์ตเนอร์	partner	True
 พาร์ตไทม์	part-time	True
@@ -1419,11 +1445,13 @@ th	en	check
 ยูนาไคต์	unakite	True
 ยูนิคอร์น	unicorn	
 ยูนิต	unit	
-ยูฟ่า	uefa	
+ยูฟ่า	uefa	True
 ยูรานอเซอร์ไคต์	uranocircite	True
 ยูราโนแทนทาไลต์	uranotantalite	True
 ยูเคลส	euclase	True
 ยูเดียไลต์	eudialite	True
+ยูเนี่ยน เพาเวอร์	union power	True
+ยูเนี่ยนเพาเวอร์	union power	True
 ยูเรนัส	uranus	True
 ยูเรนิไนต์	uraninite	True
 ยูเรเชีย	eurasia	True
@@ -1461,6 +1489,7 @@ th	en	check
 รีเควสต์	request	True
 รีเนียม	rhenium	True
 รีเบกไคต์	riebeckite	True
+รีเฟรช	refresh	True
 รีแลกซ์	relax	True
 รีโมท	remote	
 รีไซเคิล	recycle	
@@ -1475,6 +1504,7 @@ th	en	check
 รูไทล์	rutile	True
 ร็อก	rock	True
 ร็อกบริดไจต์	rockbridgeite	True
+ร็อตเตอร์ดัม	rotterdam	
 ลอการิทึม	logarithm	True
 ลองจิจูด	longitude	True
 ลอตเตอรี่	lottery	True
@@ -1494,6 +1524,7 @@ th	en	check
 ลาร์เดอเรลไลต์	larderellite	True
 ลาวา	lava	True
 ลาเต้	latte	False
+ลาเท็กซ์	latex	
 ลาเวนเดอร์	lavender	
 ลิกไนต์	lignite	True
 ลิงก์	link	True
@@ -1534,6 +1565,7 @@ th	en	check
 ล็อบบี้	lobby	True
 ล็อบบี้ยิสต์	lobbyist	
 ล็็อก	lock	True
+วอตส์แอปป์	whatsapp	True
 วอนเซไนต์	vonsenite	True
 วอบเบลอร์	wobbler	True
 วอฟเฟิล	waffle	True
@@ -1551,6 +1583,7 @@ th	en	check
 วอล์กเอาต์	walk out	True
 วัคซีน	vaccine	True
 วัตต์	watt	True
+วันเดย์	one day	
 วาคอม	wacom	
 วาติกัน	vatican	
 วานาดิไนต์	vanadinite	True
@@ -1562,7 +1595,7 @@ th	en	check
 วาเลนไทน์	valentine	
 วิกตอเรีย	victoria	
 วิกิ	wiki	
-วิกิพีเดีย	wikipedia	
+วิกิพีเดีย	wikipedia	True
 วิกิลีกส์	wikileaks	
 วิดิโอ	video	False
 วิดีโอ	vdo	
@@ -1574,6 +1607,7 @@ th	en	check
 วิตามิน	vitamin	True
 วิตามินบี 1	vitamin b 1	True
 วินเทจ	vintage	
+วินเนอร์กรุ๊ป เอ็นเตอร์ไพรซ์	winner group enterprise	True
 วินโดวส์	windows	
 วินโดวส์วิสตา	windows vista	
 วินโดวส์เอ็กซ์พี	windows xp	
@@ -1592,6 +1626,7 @@ th	en	check
 วีซูเวียไนต์	vesuvianite	True
 วีดีโอ	video	
 วีต์ไชต์	veatchite	True
+วีแชต	wechat	True
 วุดเฮาไซต์	woodhouseite	True
 วุลฟีไนต์	wulfenite	True
 วุลแฟรม	wolfram	True
@@ -1615,7 +1650,7 @@ th	en	check
 สตรอนเชียไนต์	strontianite	True
 สตรอว์เบร์รี	strawberry	True
 สตรอว์เบอร์รี	strawberry	True
-สตรอว์เบอร์รี่	strawberry	
+สตรอว์เบอร์รี่	strawberry	False
 สตรันไซต์	strunzint	True
 สตริกนิน	strychnine	True
 สตรีตฟูด	street food	True
@@ -1649,11 +1684,13 @@ th	en	check
 สตีฟ บัลเมอร์	steve ballmer	
 สตีไทต์	steatite	True
 สตู	stew	True
+สตูดิโอ	studio	
 สต็อก	stock	True
+สต๊อก	stock	
 สปริง	spring	True
 สปอดูมีน	spodumene	True
 สปอต	spot	True
-สปอติฟาย	spotify	
+สปอติฟาย	spotify	True
 สปอตไลต์	spotlight	True
 สปอนเซอร์	sponsor	True
 สปอยล์	spoil	True
@@ -1857,6 +1894,7 @@ th	en	check
 อัพโหลด	upload	False
 อัลตราซาวนด์	ultrasound	True
 อัลตราไวโอเลต	ultraviolet	True
+อัลตร้าไวด์	ultra-wide	
 อัลติเมต	ultimate	True
 อัลบั้ม	album	True
 อัลปากา	alpaca	True
@@ -2001,7 +2039,7 @@ th	en	check
 ฮับ	hub	
 ฮัสเซียม	hassium	True
 ฮั่น	hun	True
-ฮาร์ดดิสก์	hard disk	
+ฮาร์ดดิสก์	hard disk	True
 ฮาร์ดดิสก์	harddisk	
 ฮาร์ดิสโทไนต์	hardystonite	True
 ฮาร์ดแวร์	hardware	True
@@ -2077,6 +2115,7 @@ th	en	check
 เคอร์ซูไทต์	kaersutite	True
 เคอร์ฟิว	curfew	
 เคอร์มิไซต์	kermesite	True
+เคอร์เซอร์	cursor	True
 เคอร์เนล	kernel	
 เคอร์ไนต์	kernite	True
 เคออติก	chaotic	True
@@ -2252,6 +2291,7 @@ th	en	check
 เทนอไรต์	tenorite	True
 เทนาร์ไดต์	thenardite	True
 เทนิโอไลต์	tainiolite	True
+เทนเซ็นต์	tencent	True
 เทนแนนไทต์	tennantite	True
 เทป	tape	
 เทมเพลต	template	True
@@ -2270,6 +2310,7 @@ th	en	check
 เทอร์โมเนไทรต์	thermonatrite	True
 เทอร์โมไดนามิกส์	thermodynamics	True
 เทามาไซต์	thaumasite	True
+เทเลโฟโต้	telephoto	
 เทแรโนดอน	pteranodon	True
 เนกเคดไบค์	naked bike	
 เนกไท	necktie	True
@@ -2454,6 +2495,7 @@ th	en	check
 เพาเวลไลต์	powellite	True
 เพียร์ทูเพียร์	peer to peer	
 เพเลคานิไมมัส	pelecanimimus	True
+เฟซบุค	facebook	False
 เฟซบุ๊ก	facebook	True
 เฟซบุ๊ก	facebook   	
 เฟนไกต์	phengite	True
@@ -2484,7 +2526,7 @@ th	en	check
 เมกเกอร์	maker	นักประดิษฐ์
 เมตริก	metric	True
 เมตริกตัน	metric ton	True
-เมตา	meta	
+เมตา	meta	True
 เมตาเวิร์ส	metaverse	True
 เมทาซูเนอไรต์	meta-zeunerite	True
 เมทาทอร์เบอร์ไนต์	meta-torbernite	True
@@ -2512,7 +2554,7 @@ th	en	check
 เมอร์คิวรี	mercury	True
 เมอร์มาไนต์	murmanite	True
 เมาท์	mouth	True
-เมาส์	mouse	
+เมาส์	mouse	True
 เมาเชอร์ไรต์	maucherite	True
 เมิร์จ	merge	True
 เมเนกิไนต์	meneghinite	True
@@ -2527,6 +2569,7 @@ th	en	check
 เรดอน	radon	True
 เรดาร์	radar	True
 เรดแฮท	red hat	
+เรตติ้ง	rating	
 เรอัล มาดริด	real madrid	
 เรินต์เกเนียม	roentgenium	True
 เรเดียม	radium	True
@@ -2590,6 +2633,7 @@ th	en	check
 เอกซ์คลูซิฟ	exclusive	True
 เอกซ์ปอตส์	exports	True
 เอกซ์เทนซิฟ	extensive	True
+เอกซ์เอ็มแอล	xml	
 เอกมาไนต์	ekmanite	True
 เอการ์	agar	True
 เอชทีซี	htc	
@@ -2635,6 +2679,7 @@ th	en	check
 เออร์เบียม	erbium	True
 เอาต์คัม	outcome	True
 เอเคอร์	acre	True
+เอเจ แอดวานซ์ เทคโนโลยี	aj advance technology	True
 เอเจนซี	agency	True
 เอเจนต์	agent	True
 เอเดรียน	adrian	True
@@ -2644,18 +2689,26 @@ th	en	check
 เอเมอรี	emery	True
 เอเลียน	alien	True
 เอเอ็มดี	amd	
+เอแจ็กซ์	ajax	
 เอโมไซต์	amosite	True
 เอโรบิก	aerobic	True
-เอไอ เอนเนอร์จี	ai energy	
+เอไอ เอนเนอร์จี	ai energy	True
 เอไอจี	aig	
 เอไอเอ	aia	
 เอไอเอส	ais	
 เอ็กซ์ตรีม	extreme	True
 เอ็กซ์บ็อกซ์	xbox	
 เอ็กเซอร์ไซส์	exercise	True
+เอ็นซีแอล อินเตอร์เนชั่นแนล โลจิสติกส์	ncl international logistics	True
+เอ็นอาร์ อินสแตนท์ โปรดิวซ์	nr instant produce	True
+เอ็นเตอร์เทนเมนต์	entertainment	True
+เอ็นเอฟซี	nfc	True
+เอ็นเอฟที	nft	
+เอ็นเฮชเอส	nhs	True
 เอ็มบริโอ	embryo	True
+เอ็มพีจี คอร์ปอเรชั่น	mpg corporation	True
 เอ็มพีสาม	mp3	
-เอ็มวี	mv	
+เอ็มวี	mv	True
 เอ็มเค	mk	
 เอ็มเอ็มเอส	mms	
 เอ๊กซ์	x	
@@ -2821,6 +2874,7 @@ th	en	check
 แคสต์	cast	True
 แคสเคด	cascade	True
 แคสเตอร์	castor	True
+แคสเปียน	caspian	True
 แคเช	cachet	True
 แคเชต์	cachet	True
 แคเชียร์	cashier	True
@@ -3018,6 +3072,8 @@ th	en	check
 แบ็ตเทิล	battle	True
 แบ็ปทอร์นิส	baptornis	True
 แบ็ปทิซึม	baptism	True
+แปซิฟิก	pacific	True
+แปซิฟิกไพพ์	pacific pipe	True
 แพกโนไลต์	pachnolite	True
 แพคิเซฟาโลซอรัส	pachycephalosaurus	True
 แพคเกจ	package	False
@@ -3027,6 +3083,8 @@ th	en	check
 แพนเค้ก	pancake	
 แพนเดอร์ไมต์	pandermite	True
 แพรซิโอดิเมียม	praeseodymium	True
+แพรรีด็อก	prairie dog	
+แพรรี่ด็อก	prairie dog	
 แพราซอรอโลฟัส	parasaurolophus	True
 แพริไซต์	parisite	True
 แพลจิโอเคลส	plagioclase	True
@@ -3073,7 +3131,10 @@ th	en	check
 แมงกาโนโซต์	maganosite	True
 แมงกาไนต์	manganite	True
 แมงแกนแบบิงทอไนต์	manganbabingtinite	True
+แมชชีนเลิร์นนิง	machine learning	
+แมชีน เลิร์นนิ่ง	machine learning	
 แมตช์	match	True
+แมทชีน เลินนิ่ง	machine learning	
 แมนซิตี้	man city	
 แมนยู	man u	
 แมมมอท	mammoth	True
@@ -3100,6 +3161,7 @@ th	en	check
 แร็ป	rap	True
 แร็ปเปอร์	rapper	
 แร็พเปอร์	rapper	
+แลคโตส	lactose	True
 แลนด์	land	
 แลนด์มาร์ก	landmark	True
 แลนทานัม	lanthanum	True
@@ -3113,6 +3175,7 @@ th	en	check
 แล็กเทต	lactate	True
 แล็กโทส	lactose	True
 แล็บ	lab	True
+แล็บท็อป	laptop	
 แล็ป	lab	
 แล็ปท็อป	laptop	
 แวนต์ฮอฟไฟต์	vanthoffite	True
@@ -3182,6 +3245,8 @@ th	en	check
 แอปฯ	app	False
 แอปเปิล	apple	True
 แอปเปิ้ล	apple	
+แอพ	app	False
+แอพพลิเคชั่น	application	False
 แอฟทิทาไลต์	aphthitalite	True
 แอฟเตอร์	after	True
 แอฟเฟล็ก	affleck	True
@@ -3320,7 +3385,10 @@ th	en	check
 โซฟา	sofa	
 โซลาริส	solaris	
 โซลเจอร์	soldier	True
+โซเชียล	social	
 โซเชียลมีเดีย	social media	
+โซเชียลเน็ตเวิร์ก	social network	
+โซเชียลเน็ตเวิร์ค	social network	
 โซเดียม	sodium	True
 โซเดียมคาร์บอเนต	sodium carbonate	True
 โซเดียมซัลเฟต	sodium sulphate	True
@@ -3339,11 +3407,13 @@ th	en	check
 โดเมน	domain	True
 โดเมย์ไคต์	domeykite	True
 โดโลไมต์	dolomite	True
+โทน	tone	True
 โทนี่	tony	
 โทมัส	thomas	
 โทมัส ทูเคิ่ล	thomas tuchel	
 โทรนา	trona	True
 โทะเซะกิ	toseki	True
+โทเคน	token	
 โทแพซ	topaz	True
 โทแพโซไลต์	topazolite	True
 โนซีไลต์	noselite	True
@@ -3367,6 +3437,7 @@ th	en	check
 โบนีโต	bonito	True
 โบร	bro	True
 โบรช	brooch	True
+โบรชัวร์	brochure	
 โบรมาร์จิไรต์	bromargyrite	True
 โบรมีน	bromine	True
 โบรอน	boron	True
@@ -3391,6 +3462,8 @@ th	en	check
 โปรตีน	protein	True
 โปรเจกต์	project	
 โปรเจค	project	True
+โปรเจคต์	project	False
+โปรเจ็ค	project	False
 โปรเตสแตนต์	protestant	True
 โปรแกรม	program	True
 โปรแกรมเมอร์	programmer	True
@@ -3432,12 +3505,14 @@ th	en	check
 โฟโตอิเล็กทริก	photoelectric	True
 โฟโต้ชอป	photoshop	True
 โมนาไซต์	monazite	True
+โมบาย	mobile	True
 โมลิบดีนัม	molybdenum	True
 โมลิบดีไนต์	molybdenite	True
 โมฮาไวต์	mohavite	True
 โมเดล	model	True
 โมเดอร์นา	moderna	
 โมเดิร์น	modern	
+โมเด็ม	modem	True
 โมเมนต์	moment	True
 โมเลกุล	molecule	True
 โมเลกุลาร์	molecular	
@@ -3470,6 +3545,7 @@ th	en	check
 โหวต	vote	True
 โอซุมิไลต์	osumilite	True
 โอดอนโทไลต์	odontolite	True
+โอดีเอฟ	odf	True
 โอท๊อป	otop	True
 โอนิกซ์	onyx	True
 โอบามา	obama	
@@ -3507,6 +3583,7 @@ th	en	check
 โฮโนลูลู	honolulu	
 โฮไพต์	hopeite	True
 ไกด์	guide	True
+ไกลโคไซด์	glycoside	True
 ไคทิน	chitin	True
 ไคมีรา	chimaera	True
 ไคมีรา	chimera	True
@@ -3583,6 +3660,7 @@ th	en	check
 ไทร-เฟล็กซ์	tri-flex	True
 ไทรกลีเซอไรด์	triglyceride	True
 ไทรฟิไลต์	triphylite	True
+ไทรอยด์	thyroid	
 ไทรเซราท็อปส์	triceratops	True
 ไทรโคลแซน	triclosan	True
 ไทเทรต	titrate	True
@@ -3633,7 +3711,7 @@ th	en	check
 ไพไรต์	pyrite	True
 ไฟต์	fight	True
 ไฟรเบอร์ไกต์	freibergite	True
-ไฟร์ฟอกซ์	firefox	
+ไฟร์ฟอกซ์	firefox	True
 ไฟร์ฟ็อกซ์	firefox	
 ไฟร์วอลล์	firewall	
 ไฟลต์	flight	True
@@ -3690,7 +3768,7 @@ th	en	check
 ไอพ็อด	ipod	
 ไอศกรีม	ice cream	
 ไอออน	ion	True
-ไอเดีย	idea	
+ไอเดีย	idea	True
 ไอเทม	item	True
 ไอแซกนิวตัน	isaac newton	
 ไอแซค นิวตัน	isaac newton	
@@ -3700,6 +3778,7 @@ th	en	check
 ไอโฟน	iphone	True
 ไอโอดีน	iodine	True
 ไอโอที	iot	True
+ไอโอเอส	ios	True
 ไอโอไซต์	iozite	True
 ไอโอไลต์	iolite	True
 ไฮดรอกซิลบาสต์เนไซต์	hydroxylbastnasite	True

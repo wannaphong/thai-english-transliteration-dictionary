@@ -1,7 +1,6 @@
 # Thai-English transliteration dictionary
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6564026.svg)](https://doi.org/10.5281/zenodo.6564026)
 
-Version 1.1
+Version 1.2
 
 
 This project is Thai-English transliteration dictionary. It is store words for Thai-English transliteration pairs. Thai words are English words from English to Thai by transliteration in Thai.
@@ -26,30 +25,6 @@ Data format: It is tsv format (split by \t).
 The license of dictionary is CC-BY 4.0. You can read license by LICENSE-DICTIONARY.md file.
 
 The license of source code in this project is Apache License Version 2.0.
-
-## Citations
-
-If you use `Thai-English transliteration dictionary` in your project or publication, please cite the library as follows
-
-```
-Wannaphong Phatthiyaphaibun. (2022). wannaphong/thai-english-transliteration-dictionary: v1.1 (v1.1). Zenodo. https://doi.org/10.5281/zenodo.6564026
-```
-
-or BibTeX entry:
-
-```bib
-@software{wannaphong_phatthiyaphaibun_2022_6564026,
-  author       = {Wannaphong Phatthiyaphaibun},
-  title        = {{wannaphong/thai-english-transliteration- 
-                   dictionary: v1.1}},
-  month        = may,
-  year         = 2022,
-  publisher    = {Zenodo},
-  version      = {v1.1},
-  doi          = {10.5281/zenodo.6564026},
-  url          = {https://doi.org/10.5281/zenodo.6564026}
-}
-```
 
 ## Author
 Wannaphong Phatthiyaphaibun

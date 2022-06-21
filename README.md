@@ -27,5 +27,30 @@ The license of dictionary is CC-BY 4.0. You can read license by LICENSE-DICTIONA
 
 The license of source code in this project is Apache License Version 2.0.
 
+## Citations
+
+If you use `Thai-English transliteration dictionary` in your project or publication, please cite the library as follows
+
+```
+Wannaphong Phatthiyaphaibun. (2022). wannaphong/thai-english-transliteration-dictionary: v1.3 (v1.3). Zenodo. https://doi.org/10.5281/zenodo.6676005
+```
+
+or BibTeX entry:
+
+```bib
+@software{wannaphong_phatthiyaphaibun_2022_6676005,
+  author       = {Wannaphong Phatthiyaphaibun},
+  title        = {{wannaphong/thai-english-transliteration- 
+                   dictionary: v1.3}},
+  month        = jun,
+  year         = 2022,
+  publisher    = {Zenodo},
+  version      = {v1.3},
+  doi          = {10.5281/zenodo.6676005},
+  url          = {https://doi.org/10.5281/zenodo.6676005}
+}
+```
+
+
 ## Author
 Wannaphong Phatthiyaphaibun

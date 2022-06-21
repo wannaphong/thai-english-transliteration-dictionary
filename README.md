@@ -1,6 +1,6 @@
 # Thai-English transliteration dictionary
 
-Version 1.2
+Version 1.3
 
 
 This project is Thai-English transliteration dictionary. It is store words for Thai-English transliteration pairs. Thai words are English words from English to Thai by transliteration in Thai.
@@ -9,9 +9,10 @@ Example:
 
 > galaxy -> กาแล็กซี
 
-**File:**
+**Files:**
 - dict.tsv - Dictionary file
 - LICENSE-DICTIONARY.md - Dictionary's license
+- build-dict: It is source code for get Thai-English transliteration dictionary.
 
 Data format: It is tsv format (split by \t).
 
@@ -25,30 +26,6 @@ Data format: It is tsv format (split by \t).
 The license of dictionary is CC-BY 4.0. You can read license by LICENSE-DICTIONARY.md file.
 
 The license of source code in this project is Apache License Version 2.0.
-
-## Citations
-
-If you use `Thai-English transliteration dictionary` in your project or publication, please cite the library as follows
-
-```
-Wannaphong Phatthiyaphaibun. (2022). wannaphong/thai-english-transliteration-dictionary: v1.2 (v1.2). Zenodo. https://doi.org/10.5281/zenodo.6570049
-```
-
-or BibTeX entry:
-
-```bib
-@software{wannaphong_phatthiyaphaibun_2022_6570049,
-  author       = {Wannaphong Phatthiyaphaibun},
-  title        = {{wannaphong/thai-english-transliteration- 
-                   dictionary: v1.2}},
-  month        = may,
-  year         = 2022,
-  publisher    = {Zenodo},
-  version      = {v1.2},
-  doi          = {10.5281/zenodo.6570049},
-  url          = {https://doi.org/10.5281/zenodo.6570049}
-}
-```
 
 ## Author
 Wannaphong Phatthiyaphaibun
